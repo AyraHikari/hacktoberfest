@@ -7,6 +7,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 ## Contributors
 
 - [Ahmad Thoriq Najahi](https://github.com/Najahiiii)
+- [Ayra Hikari](https://github.com/AyraHikari)
 
 ## How to contribute
 - Fork this repository
